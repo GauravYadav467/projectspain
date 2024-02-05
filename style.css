@@ -1,0 +1,22 @@
+
+#gif {
+    height: 250px;
+}
+.yesButton {
+    height: 20px;
+    width: 80px;
+}
+.contain-gif {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.rajat {
+    display: flex;
+    justify-content: center;
+}
+
+
