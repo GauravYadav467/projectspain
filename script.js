@@ -1,5 +1,5 @@
 // const noTexts = ['Pakka Nahi?', 'Dobara soch lo...', 'Once in a life time offer h... Dekh lo', "Pleeeease!!", "Samjha kro na", "Mai nahi manunga", "Kya itna bura hu mai?"]
-const noTexts = ['I love you baccha', 'Dobara soch lo...', 'Mai baar baar nahi manaunga... Dekh lo', "Pleeeease!!", "Samjha kro na", "For Love press yes", "Kya itna bura hu mai?"]
+const noTexts = ['I love you baccha', 'Dobara soch lo...', 'Mai baar baar nahi manaunga... Dekh lo', "Pleeeease!!", "Samjha kro na", "For Love press yes", "Kya itna bura hu mai?"];
 let height = 50;
 let height = 50;
 let width = 100;
